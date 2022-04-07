@@ -128,4 +128,4 @@ In various areas of the map you can find Bots programmed by the system to fight 
 # Disclaimer :cop:
 Project model under development these conditions may change according to the ideas provided, made by the developers of the open source game.
 
-#### Fecha de Actualización: 07 de abril de 2022
+#### :date: Update Date: April 07, 2022 
