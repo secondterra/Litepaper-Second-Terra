@@ -51,7 +51,7 @@ The peso pool will be linked to the Defi of pankacaes.finance, this will be fed 
 # Second Terra Game Mechanics :blue_book:
 The mechanics of the Second Terra game is distributed in different parameters that encompass the game, among them we have:
 
-#### Character:
+#### Character: :couple:
 It is an NFT Token that can be minted in the game system (with a small amount of BNB that feeds the Terran Peso Pool) each player can have up to 5 characters in their accounts, among its qualities it has the following characteristics:
 - Force
 - Attack
@@ -62,10 +62,10 @@ It is an NFT Token that can be minted in the game system (with a small amount of
 The average of these characteristics grants a character Power level.
 Each Character when minted, is given to the player without any costume, armor or weapon.
 
-#### Player lands:
+#### Player lands: :sunrise_over_mountains:
 The player starts in a small land where they can find:
 
-#### Dressing rooms:
+#### Dressing rooms: :love_hotel:
 The player can equip NFT items ranging from:
 -	Pants
 -	Shirts
@@ -76,7 +76,7 @@ The player can equip NFT items ranging from:
 
 By granting extra abilities to the character, players can also enable a custom NFT costume designer but they must pay to enable it, payment is made with the Terran Stablecoin.
 
-#### PvP Battle:
+#### PvP Battle: :gun:
 To enter the battlefield the player must cancel a small amount of Terran Weight to start the battle. In Player vs Player Battlefield, you will be presented with 3 types of players for you to play against:
 
 - Basic Range: It is the opponent with an average power equal to a range of -5 to its range. Winner Rewards: 3 Chests
@@ -91,32 +91,32 @@ Among the prizes to win are:
 - Weapons and equipment
 - Terran weight token.
 
-#### Forge:
+#### Forge: :factory:
 It is the part where the player can research weapons and equipment predetermined by the system. Players can also enable a custom NFT weapon and gear designer but must pay to enable it, payment is made with the Terran Stablecoin.
 
-#### Drugstores:
+#### Drugstores: :convenience_store:
 It is the store where you can buy with Terran pesos potions to improve:
 - Health
 - Characteristics of attacks
 
 Players can also enable a custom NFT weapon and gear designer but must pay to enable it, payment is made with the Terran Stablecoin.
 
-#### Marketplace:
+#### Marketplace: :money_with_wings:
 Players can sell their characters, their items, potions and other NFT items, the trade is done in Terran Pesos.
 
-#### System Vendor:
+#### System Vendor: :wedding:
 This is the system NFT Item sales for the player characters, this is done in Terran pesos.
  
-#### Academy:
+#### Academy: :love_hotel:
 To unlock certain characteristics that increase the strength of the character, you pay in Terran weight and the possibility of making better weapons, equipment in the forge and also potions in drugstores.
 
-#### Planting Land:
-There is an area of ​​up to 12 spaces to sow, the player activates them with a number of Terran weights, there are 5 types of sowing:
-- Apples with a harvest time of 1 month.
-- Mangoes with a harvest time of 3 weeks.
-- Oranges with a harvest time of 2 weeks.
-- Corn with a harvest harvest time of 1 week
-- Mushrooms with a harvest time of 24 hours.
+#### Planting Land: :deciduous_tree:
+There is an area of up to 12 spaces to sow, the player activates them with a number of Terran weights, there are 5 types of sowing:
+- Apples :apple: with a harvest time of 1 month.
+- Tomatos :tomato: with a harvest time of 3 weeks.
+- Oranges :tangerine: with a harvest time of 2 weeks.
+- Corn :corn: with a harvest harvest time of 1 week
+- Honeypot :honey_pot: with a harvest time of 24 hours.
 
 Each harvest generates Terran Pesos to the player when ready to harvest. 
  
@@ -125,7 +125,7 @@ It is the area where the player can enter and interact with other players. You c
 
 In various areas of the map you can find Bots programmed by the system to fight with them, when winning the player receives rewards ranging from Terran Tokens to NFT items from the system.
 
-# Disclaimer :cop:
+# Disclaimer :construction:
 Project model under development these conditions may change according to the ideas provided, made by the developers of the open source game.
 
-#### :date: Update Date: April 07, 2022 
+#### :date:  Update Date: April 07, 2022 
