@@ -40,15 +40,15 @@ La pool del peso se enlazara a la Defi de pankacaes.finance, esta será alimenta
 •	Max Supply: 100.000.000.000.000.000.000.000
 
 #### Distribución:
-Legales: 2%
-Airdrop Varios: 3%
-Airdrop Inicial: 5%
-Sociedades: 5%
-Reserva Descentralizada: 5%
-Recompensas para Desarrollo Open Source: 10%
-Marketing: 15%
-Venta Pública: 25%
-Recompensas en el Juego: 30%
+- Legales: 2%
+- Airdrop Varios: 3%
+- Airdrop Inicial: 5%
+- Sociedades: 5%
+- Reserva Descentralizada: 5%
+- Recompensas para Desarrollo Open Source: 10%
+- Marketing: 15%
+- Venta Pública: 25%
+* Recompensas en el Juego: 30%
 
 # Mecánica de Juego Second Terra
 La mecánica del juego Second Terra está distribuida en diferentes parámetros que engloban el juego, entre ellas tenemos:
