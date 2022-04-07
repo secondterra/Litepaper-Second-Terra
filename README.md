@@ -120,10 +120,10 @@ There is an area of up to 12 spaces to sow, the player activates them with a num
 
 Each harvest generates Terran Pesos to the player when ready to harvest. 
  
-#### Interaction area:
-It is the area where the player can enter and interact with other players. You cannot attack players in this area.
+#### Interaction area: :couple_with_heart:
+It is the area where the player can enter and interact with other players :revolving_hearts: You cannot :heartpulse: attack players in this area.
 
-In various areas of the map you can find Bots programmed by the system to fight with them, when winning the player receives rewards ranging from Terran Tokens to NFT items from the system.
+In various areas of the map you can find :japanese_ogre: :japanese_goblin: :skull: Bots programmed by the system to fight with them, when winning the player receives rewards :gift: ranging from Terran Tokens to NFT items from the system.
 
 # Disclaimer :construction:
 Project model under development these conditions may change according to the ideas provided, made by the developers of the open source game.
