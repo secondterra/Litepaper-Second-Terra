@@ -1,8 +1,6 @@
 # Litepaper-Second-Terra 
 Preview of Second Terra :video_game:
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
 ![](https://i.ibb.co/Bgfnmf0/Second-Terra2.png)
 
 Second Terra is an open source RPG-style NFT game where users can interact with each other as a community, in addition to owning NFT lands to expand their domains and fight each other on battlefields.
