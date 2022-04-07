@@ -125,6 +125,10 @@ It is the area where the player can enter and interact with other players :revol
 
 In various areas of the map you can find :japanese_ogre: :japanese_goblin: :skull: Bots programmed by the system to fight with them, when winning the player receives rewards :gift: ranging from Terran Tokens to NFT items from the system.
 
+# Contact Information
+If you find yourself needing to contact us, this page has all the necessary information.
+- :blue_heart: [Discord](https://discord.gg/6XKkCBmS2x) 
+
 # Disclaimer :construction:
 Project model under development these conditions may change according to the ideas provided, made by the developers of the open source game.
 
