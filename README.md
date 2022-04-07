@@ -3,8 +3,6 @@ Descripción preliminar de Second Terra
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
 Second Terra es un juego NFT al estilo RPG de código abierto en donde los usuarios pueden interactuar entre ellos como como comunidad, además de poseer tierras NFT expandir sus dominios y pelear entre ellos en campos de batalla.
 
 El proyecto Second Terra es un proyecto de código abierto formado por una comunidad que integra desarrolladores, maquetadores, diseñadores de interfaz y otras personas con diferentes capacidades y habilidades interesantes para llevar a cabo la óptima puesta en marcha de plataforma.
