@@ -48,18 +48,18 @@ La pool del peso se enlazara a la Defi de pankacaes.finance, esta será alimenta
 - Recompensas para Desarrollo Open Source: 10%
 - Marketing: 15%
 - Venta Pública: 25%
-* Recompensas en el Juego: 30%
+- Recompensas en el Juego: 30%
 
 # Mecánica de Juego Second Terra
 La mecánica del juego Second Terra está distribuida en diferentes parámetros que engloban el juego, entre ellas tenemos:
 
 #### El Personaje:
 Es un Token NFT que se puede acuñar en el sistema del juego (con una pequeña cantidad de BNB que alimenta la Pool del Peso Terrano) cada jugador puede poseer hasta 5 personajes en sus cuentas, entre sus cualidades posee las siguientes características:
-•	Fuerza
-•	Ataque
-•	Velocidad
-•	Presteza
-•	Inteligencia 
+- Fuerza
+- Ataque
+-	Velocidad
+-	Presteza
+-	Inteligencia 
 
 El promedio de estas características le otorga un nivel de Poder del personaje.
 Cada  Personaje cuando es acuñado, se entrega al jugador sin ningún tipo de vestuario, armadura o arma.
@@ -69,37 +69,38 @@ El jugador comienza en una pequeña tierra donde puede encontrar:
 
 #### Vestidores:
 El jugador puede equiparse con artículos NFT que desde:
-•	Pantalones 
-•	Camisas
-•	Zapatos
-•	Cinturones
-•	Capas
-•	Guantes
+-	Pantalones 
+-	Camisas
+-	Zapatos
+-	Cinturones
+-	Capas
+-	Guantes
 
 Otorgándole estilos propios al personaje que juega, lo jugadores también pueden habilitar un diseñador de vestuario personalizado NFT pero deben pagar para habilitarlo el pago se realiza con la Establecoin Terrano. 
 
 #### Batalla PvP:
 Para entrar en el campo de batalla el jugador debe cancelar una pequeña cantidad de Peso Terrano para iniciar la batalla. El Campo de Batalla Jugador vs Jugador, se le presentara 3 tipos de jugador para que pueda enfrentarse:
 
-•	Rango Básico: Es el oponente de con una media de poder igual con un rango de -5 hasta su rango. Recompensas al ganador: 3 Cofres 
-•	Rango Medio: Es el oponente de con una media de poder igual a su rango hasta +5. Recompensas al ganador: 4 Cofres 
-•	Rango Alto: Es el oponente de con una media de poder mayor de +5. Recompensas al ganador: 5 Cofres 
+-	Rango Básico: Es el oponente de con una media de poder igual con un rango de -5 hasta su rango. Recompensas al ganador: 3 Cofres 
+-	Rango Medio: Es el oponente de con una media de poder igual a su rango hasta +5. Recompensas al ganador: 4 Cofres 
+-	Rango Alto: Es el oponente de con una media de poder mayor de +5. Recompensas al ganador: 5 Cofres 
 
 El sistema elige aleatoriamente a los oponentes que se encuentran en línea para ser seleccionados para ir a la batalla con ellos.
 El jugador ganador se le muestra la cantidad de recompensas de acuerdo al rango en que realizo la batalla y son asignadas a su almacén. 
 
 Entre los premios a ganar están:
-•	Equipos de vestuarios
-•	Armas y equipamiento
-•	Token peso Terranos.
+-	Equipos de vestuarios
+-	Armas y equipamiento
+-	Token peso Terranos.
 
 #### Fragua:
 Es la parte donde el jugador puede desarrollar Armas y equipamiento predeterminados por el sistema. Los jugadores también pueden habilitar un diseñador de armas y equipamiento personalizados NFT pero deben pagar para habilitarlo el pago se realiza con la Establecoin Terrano.
 
 #### Droguerías:
 Es el store donde pueden comprar con pesos Terranos pócimas para mejorar:
-Salud
-Características de ataques
+- Salud
+- Características de ataques
+
 Los jugadores también pueden habilitar un diseñador de armas y equipamiento personalizados NFT pero deben pagar para habilitarlo el pago se realiza con la Establecoin Terrano.
 
 #### Marketplace:
@@ -113,11 +114,11 @@ Para desbloquear ciertas características que aumentan la fuerza del personaje, 
 
 #### Terrenos de Siembra:
 Existen un área de hasta 12 espacios para sembrar el jugador las activa con una cantidad de pesos Terranos, hay 5 tipos de siembra:
-•	Manzanas con un tiempo de cosecha de 1 mes. 
-•	Mangos con un tiempo de cosecha de 3 semanas.
-•	Naranjas con un tiempo de cosecha de 2 semanas.
-•	Maíz con un tiempo de cosecha de cosecha de 1 semana 
-•	Hongos con un tiempo de cosecha de 24 horas. 
+-	Manzanas con un tiempo de cosecha de 1 mes. 
+-	Mangos con un tiempo de cosecha de 3 semanas.
+-	Naranjas con un tiempo de cosecha de 2 semanas.
+-	Maíz con un tiempo de cosecha de cosecha de 1 semana 
+-	Hongos con un tiempo de cosecha de 24 horas. 
 
 Cada cosecha genera Pesos Terranos al jugador cuando esta lista para cosechar. 
  
