@@ -1,5 +1,5 @@
-# Litepaper-Second-Terra
-Preview of Second Terra
+# Litepaper-Second-Terra 
+Preview of Second Terra :video_game:
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
@@ -48,10 +48,10 @@ The peso pool will be linked to the Defi of pankacaes.finance, this will be fed 
 - Public Sale: 25%
 - In-Game Rewards: 30%
 
-# Second Terra Game Mechanics
+# Second Terra Game Mechanics :blue_book:
 The mechanics of the Second Terra game is distributed in different parameters that encompass the game, among them we have:
 
-#### El Personaje:
+#### Character:
 It is an NFT Token that can be minted in the game system (with a small amount of BNB that feeds the Terran Peso Pool) each player can have up to 5 characters in their accounts, among its qualities it has the following characteristics:
 - Force
 - Attack
@@ -125,7 +125,7 @@ It is the area where the player can enter and interact with other players. You c
 
 In various areas of the map you can find Bots programmed by the system to fight with them, when winning the player receives rewards ranging from Terran Tokens to NFT items from the system.
 
-# Disclaimer
+# Disclaimer :cop:
 Project model under development these conditions may change according to the ideas provided, made by the developers of the open source game.
 
 #### Fecha de Actualización: 07 de abril de 2022
