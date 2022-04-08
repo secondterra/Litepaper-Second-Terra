@@ -18,6 +18,12 @@ The Second Terra game has a double Token DAO economy system.
 #### Terrano: :large_blue_circle:
 It is the Decentralized Governance DAO Token, which is a Token with a stable value over time.
 
+#### The technical characteristics of Terrano:
+-	Name: Terrano
+-	Type: ERC20
+-	Acronym: Terran
+-	Max Supply: 100.000.000.000.000.000.000.000
+
 #### Pool de Terrano:
 It is a pool where the liquidity of the Terrano is stored, with a block explorer that shows the amount of Terranos minted, burned and in circulation in addition to the existing liquidity in the contract that must be the same as the amount of Terranos Stablecoin that exist in circulation.
 
@@ -32,10 +38,10 @@ It is the currency of the game (Token found in the game), of variable value that
 The peso pool will be linked to the Defi of pankacaes.finance, this will be fed by the purchases of the players and by the LP Token generated from the liquidity of the Terran Pool.
 
 #### The technical characteristics of Peso Terrano:
-•	Name: Peso Terrano
-•	Type: ERC20
-•	Acronym: PesoT
-•	Max Supply: 100.000.000.000.000.000.000.000
+-	Name: Peso Terrano
+-	Type: ERC20
+-	Acronym: Pesos
+-	Max Supply: 100.000.000.000.000.000.000.000
 
 #### Distribution: 
 - Legals: 2%
