@@ -127,7 +127,7 @@ In various areas of the map you can find :japanese_ogre: :japanese_goblin: :skul
 
 # Contact Information
 If you find yourself needing to contact us, this page has all the necessary information.
-- :blue_heart: [Discord](https://discord.gg/6XKkCBmS2x) 
+- :blue_heart: [Discord](https://discord.gg/kYWrGMCcbb) 
 
 # Disclaimer :construction:
 Project model under development these conditions may change according to the ideas provided, made by the developers of the open source game.
